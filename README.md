@@ -1,7 +1,7 @@
 
 # Airline Passenger Satisfaction Analysis
 
-<img src="Airline image.jpg" width=1000>
+<img src="Airline Image.jpg" width=1000>
 
 ## Contents
 
