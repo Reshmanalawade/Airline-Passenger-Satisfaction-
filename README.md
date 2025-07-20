@@ -121,6 +121,9 @@ The dataset was taken from the Kaggle
 
 10. **39%** of customers with short flight distance (< 1K mi) are dissatisfied, so the airline should focus on improving the in-flight experience for short-haul flights. Providing comfortable seating and entertainment options can make the flight more enjoyable. Additionally, airlines can consider offering flexible ticketing options for short-haul flights to make it easier for customers to book and modify their travel plans.
 
+## Dashboard
+<img src="mountain img.jpg" width=1000>
+
 ## Conclusion
 
 In conclusion, based on the analysis of the airline passenger satisfaction data, it is clear that there are several key areas that need to be addressed to increase the overall satisfaction rate. These areas include improving cleanliness, reducing departure and arrival delay time, offering more personalized service, enhancing comfort, and focusing on the needs of key dissatisfied customer segments such as personal travel type customers, economy class passengers, first-time customers, senior citizens, and customers with short flight distances. By implementing the recommended data-driven strategies, the airline can improve its satisfaction rate and enhance the overall customer experience. The Power BI dashboard report provides a comprehensive overview of the KPIs and insights gathered from the analysis, allowing the airline leadership team to make informed decisions and take necessary actions to improve passenger satisfaction.
