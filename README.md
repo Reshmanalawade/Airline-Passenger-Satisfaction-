@@ -1,6 +1,8 @@
 
 # Airline Passenger Satisfaction Analysis
 
+<img src="mountain img.jpg" width=1000>
+
 ## Contents
 
 - [Description](#description)
