@@ -122,7 +122,7 @@ The dataset was taken from the Kaggle
 10. **39%** of customers with short flight distance (< 1K mi) are dissatisfied, so the airline should focus on improving the in-flight experience for short-haul flights. Providing comfortable seating and entertainment options can make the flight more enjoyable. Additionally, airlines can consider offering flexible ticketing options for short-haul flights to make it easier for customers to book and modify their travel plans.
 
 ## Dashboard
-<img src="mountain img.jpg" width=1000>
+<img src="Dashboard Image.png" width=1000>
 
 ## Conclusion
 
